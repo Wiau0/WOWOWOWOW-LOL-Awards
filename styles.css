@@ -1,0 +1,27 @@
+img {
+    width: 350px;
+}
+body {
+    text-align:center;
+    background: url(https://png.pngtree.com/element_our/md/20180224/md_5a91003491530.jpg);
+}
+.j {
+    font-family: 'Srisakdi', cursive;
+}
+.j { 
+    color:red;
+}
+.fast {
+    font-family: 'Faster One', cursive;
+}
+.AH {
+    font-family: 'Shadows Into Light', cursive;
+}
+.k {
+    color:purple;
+}
+.kn {
+    font-family: 'Source Code Pro', monospace;
+    color:#444444;
+}
+
